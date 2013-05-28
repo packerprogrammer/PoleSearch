@@ -1,0 +1,20 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1369410363741 667 11d090a78b5373e9373c0b868e7a1fce30fdae4a C:\Users\ghensley\AndroidStudioProjects\PoleSearch\PoleSearch\build\res\all\debug\layout\fragment_main_dummy.xml
+1369410363731 4039 92a8e60b03e159d384eadcfca915849f4ab87aee C:\Users\ghensley\AndroidStudioProjects\PoleSearch\PoleSearch\build\res\all\debug\layout\activity_pole_near_me.xml
+1369410363756 618 e51631e188eb618ec18780cc7baebf3e1c1bd8f1 C:\Users\ghensley\AndroidStudioProjects\PoleSearch\PoleSearch\build\res\all\debug\layout\activity_map_view.xml
+1369410363778 224 3bee0d9a6f0efbaf11495ad45fdeb8f71aee62e8 C:\Users\ghensley\AndroidStudioProjects\PoleSearch\PoleSearch\build\res\all\debug\values-v14\values.xml
+1369410363789 130 90e37035f35f83953c491e73e930b7aea297a472 C:\Users\ghensley\AndroidStudioProjects\PoleSearch\PoleSearch\build\res\all\debug\values-sw720dp-land\values.xml
+1369410363783 210 c41731f5631a90fa989588ef97e9476fc244b438 C:\Users\ghensley\AndroidStudioProjects\PoleSearch\PoleSearch\build\res\all\debug\values-v11\values.xml
+1369410363746 4025 e4abc068ebc6eedcc88d2457ad04af5313f121d1 C:\Users\ghensley\AndroidStudioProjects\PoleSearch\PoleSearch\build\res\all\debug\layout\fragment_nearby.xml
+1369410363762 4151088 29b4fdd4a4b93d597edfba3019771467da3b14de C:\Users\ghensley\AndroidStudioProjects\PoleSearch\PoleSearch\build\res\all\debug\raw\poles.csv
+1369410363735 1171 11f0c63054a6eff9a31d040e09a746b5431a0b1e C:\Users\ghensley\AndroidStudioProjects\PoleSearch\PoleSearch\build\res\all\debug\drawable\btn_green.xml
+1369410363731 5701 83c76dba3628c38a114826310ad1ae8ed3945f0e C:\Users\ghensley\AndroidStudioProjects\PoleSearch\PoleSearch\build\res\all\debug\drawable-xhdpi\ic_launcher.png
+1369410363741 9229 a5a1f698a06ac9f41e9ac8918b6887dc50c4d747 C:\Users\ghensley\AndroidStudioProjects\PoleSearch\PoleSearch\build\res\all\debug\drawable-xxhdpi\ic_launcher.png
+1369410363744 290 d8b58506b16ee87718df275b465d79cf852ed0b5 C:\Users\ghensley\AndroidStudioProjects\PoleSearch\PoleSearch\build\res\all\debug\layout\activity_main.xml
+1369410363729 1868 b233b8e67dcc99eb838eb0d66c367903cfded1de C:\Users\ghensley\AndroidStudioProjects\PoleSearch\PoleSearch\build\res\all\debug\layout\fragment_search.xml
+1369410363730 2532 42429f7b4a4197749b8ecbd5d0095423ff8ee4e2 C:\Users\ghensley\AndroidStudioProjects\PoleSearch\PoleSearch\build\res\all\debug\drawable-mdpi\ic_launcher.png
+1369410363749 2101 0495aa2c31895311710ccca7e5e80387022b8c00 C:\Users\ghensley\AndroidStudioProjects\PoleSearch\PoleSearch\build\res\all\debug\values\values.xml
+1369410363730 244 045ff451db7cd8e61285502b8c9bbf7405f2078d C:\Users\ghensley\AndroidStudioProjects\PoleSearch\PoleSearch\build\res\all\debug\menu\main.xml
+1369410363738 4229 80ecd0aeb49057e7af379d179f097910a9ea6b8d C:\Users\ghensley\AndroidStudioProjects\PoleSearch\PoleSearch\build\res\all\debug\drawable-hdpi\ic_launcher.png
